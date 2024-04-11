@@ -1,0 +1,39 @@
+name: airjaen
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_signin_button: ^2.0.0
+  cloud_firestore: any
+  firebase_auth: ^4.4.1
+  google_sign_in: ^6.1.0
+  persistent_bottom_nav_bar: ^5.0.2
+  dio: ^5.1.1
+  dropdown_button2: ^2.1.0
+  flutter_svg: ^2.0.5
+  qr_flutter: ^4.0.0
+  firebase_storage: ^11.2.0
+  intl: ^0.17.0
+  google_fonts: ^4.0.4
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets: 
+    - assets/
+  
+ 

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "770571023655",
+    "project_id": "airjaen",
+    "storage_bucket": "airjaen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770571023655:android:06068711155ec031dae502",
+        "android_client_info": {
+          "package_name": "com.example.airjaen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770571023655-og2qh3bo1t1sdekc95lk9k8bjo9j1tfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airjaen",
+            "certificate_hash": "0aaec3b0e6f153e5444684e38587c5ff1e65f79f"
+          }
+        },
+        {
+          "client_id": "770571023655-7un0hm1dh45nlulkggasetbdaul8mvit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcz8Xymi4UbeOejz_P19Bu3cpmwsU_Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770571023655-135ma3qagp2juhup7n7hsqti1h18mmns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770571023655-ge5cf8t9sscao34vh56pnqqmor936jra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airjaen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770571023655:android:e2d21278452d0ac4dae502",
+        "android_client_info": {
+          "package_name": "com.proyecto.airjaen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770571023655-eqilkhsq9avrjlsl1fqsqr567jgv693k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.airjaen",
+            "certificate_hash": "0aaec3b0e6f153e5444684e38587c5ff1e65f79f"
+          }
+        },
+        {
+          "client_id": "770571023655-7un0hm1dh45nlulkggasetbdaul8mvit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcz8Xymi4UbeOejz_P19Bu3cpmwsU_Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770571023655-135ma3qagp2juhup7n7hsqti1h18mmns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770571023655-ge5cf8t9sscao34vh56pnqqmor936jra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airjaen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
